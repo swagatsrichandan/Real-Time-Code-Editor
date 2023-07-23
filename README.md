@@ -17,7 +17,9 @@
 ## Steps to Build locally:
 ## Installation 
  - After download or clone run `npm install` to install all the dependancies.
-
+## Real time chat 
+  ##  Run With
+      npm start
 ## Frontend
   ## Switch To Frontend Folder
       cd editor
